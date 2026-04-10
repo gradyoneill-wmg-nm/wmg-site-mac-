@@ -64,7 +64,46 @@ export const ARTICLES: Article[] = [
     publishedDate: "April 18, 2026",
     citation: "Walker, JRSM, 1979",
     byline: "BY WMG EDITORIAL \u00B7 SOURCE: Walker, JRSM, 1979",
-  }
+  },
+  {
+    id: "zone-2-training",
+    slug: "zone-2-training",
+    title: "Zone 2 Training: The Most Effective Exercise Protocol Nobody Profits From",
+    excerpt:
+      "The most effective exercise protocol in the scientific literature is one nobody in the fitness industry wants to sell you. It is a 90-minute walk. Nobody profits from a walk.",
+    hook: "The most effective exercise protocol in the scientific literature is one nobody in the fitness industry wants to sell you.",
+    category: "Exercise Science",
+    readTime: "8 min read",
+    publishedDate: "April 10, 2026",
+    citation: "San Mill\u00E1n & Brooks, Frontiers in Physiology, 2018 \u00B7 Mandsager et al., JAMA Network Open, 2022 \u00B7 N=122,007",
+    byline: "BY WMG EDITORIAL \u00B7 San Mill\u00E1n & Brooks, Frontiers in Physiology, 2018 \u00B7 N=122,007",
+  },
+  {
+    id: "gut-brain-axis",
+    slug: "gut-brain-axis",
+    title: "The Gut-Brain Axis: What the Science Says and What the Industry Sells",
+    excerpt:
+      "90% of your serotonin is made in your gut. The vagus nerve carries 80% of its signals upward, not downward. The science is real. The $61 billion probiotic market is largely disconnected from it.",
+    hook: "90% of your serotonin is made in your gut. The vagus nerve carries 80% of its signals upward, not downward.",
+    category: "Neuroscience",
+    readTime: "9 min read",
+    publishedDate: "April 10, 2026",
+    citation: "Cryan & Dinan, Nature Reviews Neuroscience, 2013 \u00B7 Pinto-Sanchez et al., Gastroenterology, 2019 \u00B7 N=44",
+    byline: "BY WMG EDITORIAL \u00B7 Cryan & Dinan, Nature Reviews Neuroscience, 2013 \u00B7 N=44",
+  },
+  {
+    id: "sound-healing",
+    slug: "sound-healing",
+    title: "Sound Healing: Separating the Physics from the Claims",
+    excerpt:
+      "Sound baths are a $2 billion industry. Some of the underlying physics is real. The clinical healing claims almost never are. The industry conflates legitimate acoustic physics with unsubstantiated biology.",
+    hook: "Sound baths are a $2 billion industry. Some underlying physics is real. The clinical healing claims almost never are.",
+    category: "Acoustic Science",
+    readTime: "8 min read",
+    publishedDate: "April 10, 2026",
+    citation: "Goldsby et al., JEBIM, 2016 \u00B7 N=62 \u00B7 Becher et al., Psychological Research, 2015 \u00B7 22 studies",
+    byline: "BY WMG EDITORIAL \u00B7 Goldsby et al., JEBIM, 2016 \u00B7 N=62",
+  },
 ];
 
 /* ─── Evidence Map Claims ─── */

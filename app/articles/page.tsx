@@ -43,6 +43,9 @@ export default function ArticlesPage() {
             We read the actual papers so you don&apos;t have to. Peer-reviewed
             sources. No affiliates. No agenda.
           </p>
+          <p className="font-mono text-[10px] text-wmg-dim mt-4">
+            {filtered.length} article{filtered.length !== 1 ? 's' : ''}{filter !== 'All' ? ` in ${filter}` : ''}
+          </p>
         </div>
       </section>
 
